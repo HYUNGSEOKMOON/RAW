@@ -1,1 +1,1 @@
-ALLOW
+1ALLOW
